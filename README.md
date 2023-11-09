@@ -1,10 +1,9 @@
 # Spy-Game
-
-![Main Menu](images/main.png)
 *Main Menu*
+![Main Menu](images/main.png)
 
-![Spy Card](images/spy-card.png)
 *Spy Card*
+![Spy Card](images/Spy-Card.png)
 
 ## Description
 
