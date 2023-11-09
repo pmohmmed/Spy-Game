@@ -1,6 +1,6 @@
 # Spy-Game
 
-![Spy Game Banner](link-to-your-banner-image)
+![Spy Game Banner]('images/main.png')
 
 ## Description
 
